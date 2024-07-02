@@ -1,7 +1,7 @@
 
 # Tic-Tack-Toe Game
 
-A brief description of a game named "Tic-Tack-Toe Game".
+A brief description of a game named "Tic-Tack-Toe ".
 it was very cool game makes for fun.
 you can definately play on your free time
 
